@@ -1,0 +1,46 @@
+body{
+background-color: skyblue;
+background-image: linear-gradient(to bottom right, rgb(56, 8, 56),rgb(134, 26, 86),rgb(255, 205, 213),rgba(194, 194, 33, 0.884));
+background-repeat:repeat;
+display: flex;
+font-family: sans-serif;
+}
+
+
+#container{
+
+ margin:0 100px;
+
+ width: 350px;
+ height: 600px;
+ padding:0 10px ;
+ text-align: center;
+ background-color:rgb(248, 168, 221) ;
+ box-shadow:0 0 70px 10px ;
+ border-radius:10%;
+ 
+}
+h1,h2,h3{
+    background-image: url(mystical-purple-blue-galaxy-clouds-dreamy.webp);
+  color: transparent;
+  background-clip:text ;
+
+}
+.main{ 
+  border-radius:50%;        
+  box-shadow:0 0 40px white  ;
+}
+#no{
+
+    margin-right: -20px;
+}
+audio{
+    height: 40px;
+}
+
+#two{
+   box-sizing:0 0 30px inset ;
+    height: 200px;
+    margin-top:160px;
+    font-size:22px ;
+}
