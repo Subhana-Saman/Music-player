@@ -2,6 +2,7 @@ body{
 background-color: skyblue;
 background-image: linear-gradient(to bottom right, rgb(56, 8, 56),rgb(134, 26, 86),rgb(255, 205, 213),rgba(194, 194, 33, 0.884));
 background-repeat:repeat;
+ background-attachment:fixed;
 display: flex;
 font-family: sans-serif;
 }
@@ -43,4 +44,5 @@ audio{
     height: 200px;
     margin-top:160px;
     font-size:22px ;
+
 }
